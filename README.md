@@ -1,2 +1,2 @@
-# Learning HTML, JavaScript and gethub
-Im using this guthub for learning programing languages atm im looking at HTML and JavaScript,
+# Learning HTML, JavaScript and github
+Im using this github for learning programing languages atm im looking at HTML and JavaScript,
